@@ -1,4 +1,4 @@
-# Assignment 3a: NRIC
+## Assignment 3a: NRIC
 
 The Singapore NRIC number is made up of a leading letter, 7 digits, and a trailing letter. This letter is calculated from the first 7 digits using the modulus eleven method.
 
